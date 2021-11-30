@@ -10,7 +10,6 @@ const assertArraysEqual = function(actual, expected) {
     console.log(`🛑🛑🛑 Assertion Failed: ${actual} !== ${expected}`);
   }
 };
-assertArraysEqual([1,2],[1,2]);
-assertArraysEqual([1,2],[1,2]);
+
 
 module.exports = assertArraysEqual;
