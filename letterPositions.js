@@ -32,3 +32,4 @@ const assertArraysEqual = function(actual, expected) {
   }
 };
 
+module.exports = letterPositions;

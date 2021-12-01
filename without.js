@@ -34,3 +34,5 @@ assertArraysEqual(words, ["hello", "world", "lighthouse"]);
 let array = [1,2,3,4];
 let newarray = without(array, [1,2]);
 assertArraysEqual(array, newarray);
+
+module.exports = without;
