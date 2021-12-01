@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@emonster97/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "lodash clone",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Emonster97/lotide.git"
   },
-  "author": "",
+  "author": "Wilfred Emonts",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Emonster97/lotide/issues"
